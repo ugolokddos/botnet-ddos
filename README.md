@@ -1,6 +1,6 @@
 # botnet-ddos
 l4, l7
-apt upgrade
+apt upgrade                                                                                                                                                             
 apt update
 apt install git
 apt install python
