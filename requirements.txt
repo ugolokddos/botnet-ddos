@@ -1,0 +1,6 @@
+request
+socket
+bs4
+threading
+urllib.request
+json
